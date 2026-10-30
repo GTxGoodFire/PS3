@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Descargando...</title>
+<script>
+window.onload = function() {
+    window.location.href = "Latest_HEN_Installer_3.6.0_signed-493C.pkg";
+};
+</script>
+</head>
+<body>
+<p>Si la descarga no comienza automáticamente, pulsa <a href="archivo.pkg">aquí</a>.</p>
+</body>
+</html>
